@@ -26,6 +26,10 @@ Na druhú stranu rešpektujeme váš názor na tieto zvyky a preto neodmietneme 
 - [Značky na poháre](https://eshop.tescoma.sk/znacky-na-pohare-mydrink-12-ks-ocean)
 - [Značky na poháre na víno](https://eshop.tescoma.sk/party-kruzok-uno-vino-12-farieb?gclid=Cj0KCQjw3JXtBRC8ARIsAEBHg4m0-4gwn0pwUzdrr_5WswzOn1p_lJaDknaoEYnNiwZUJPbBXlrcZ0AaAhUWEALw_wcB)
 - Kôš na drevo ku krbu
+- [Hoblík (oldschool)](https://storage.nako.cz/images/large/147ca6017763262b54579c4fb93aa01d.jpg)
+- Dláto 20mm (drevená rúčka)
+
+*Obrázky a odkazy slúžia len pre ilustráciu*
 
 Aby sme predišli 5tim pretláčatkám na cesnak, v nasledujúcej [tabuľke](https://docs.google.com/spreadsheets/d/1_dqDdKhabJ8TYrhCIzXfcaH38tcdaQcvUQ9GTLSpOSM/edit?usp=sharing) zaznačte/sledujte, ktoré veci zo zoznamu už nepotrebujeme :)
 

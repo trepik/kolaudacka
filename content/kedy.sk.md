@@ -8,7 +8,7 @@ Radi by sme privítali ozaj všetkých, ktorí sú na náš nový príbytok zved
 
 Preto sme sa rozhodli od piatku **18.10.2019** vyhlásiť u nás kolaudačné obdobie. To znamená, že po včasnom ohlásení môžu návštevy prísť takmer kedykoľvek. Vytipovali sme však tri termíny, počas ktorých by mohla byť návševnosť najvyššia:
 
-- **piatok 18.10.2019**
+- **~~piatok 18.10.2019~~ ZRUŠENÉ, Anežku rozbolel zúbok č.8**
 - **streda 23.10.2019**
 - **piatok 25.10.2019**
 
