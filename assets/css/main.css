@@ -2567,6 +2567,11 @@ input, select, textarea {
 
 /* Image */
 
+	.post img {
+		max-height: 100%;
+		max-width: 100%;
+	}
+
 	.image {
 		border: 0;
 		display: inline-block;
