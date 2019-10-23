@@ -13,6 +13,10 @@ Navštíviť nás môžete kedykoľvek, viac sa dozviete v sekcii [kedy]({{< rel
 
 Bohate nám postačí vaša dobrá nálada ktorú si ku nám prinesiete, no ak by ste nás predsa len chceli obdarovať niečím hmotným inšpiráciu hľadajte v sekcii [darčeky]({{< ref "darceky.sk.md" >}}).
 
-Začiatok kolaudačky sme museli presunúť na stredu 23.10., pretože Anežku vo rozbolela osmička zúbok :(.
+Začiatok kolaudačky sme museli presunúť na stredu 23.10., pretože Anežku rozbolela osmička zúbok :(.
+
+Takto si Danielko hovie na lehátku v našej záhradke, pridáte sa k nemu dnes aj vy?
+
+![Daniel na lehátku](/kolaudacka/images/daniel_na_lehatku.jpg)
 
 *Informácie postupne dopĺňame*
